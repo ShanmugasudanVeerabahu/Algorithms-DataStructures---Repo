@@ -1,0 +1,300 @@
+****** For Input Size 10000 *******
+Intro Sort
+2
+****** For Input Size 20000 *******
+Intro Sort
+0
+****** For Input Size 30000 *******
+Intro Sort
+1
+****** For Input Size 40000 *******
+Intro Sort
+2
+****** For Input Size 50000 *******
+Intro Sort
+1
+****** For Input Size 60000 *******
+Intro Sort
+2
+****** For Input Size 70000 *******
+Intro Sort
+1
+****** For Input Size 80000 *******
+Intro Sort
+2
+****** For Input Size 90000 *******
+Intro Sort
+2
+****** For Input Size 100000 *******
+Intro Sort
+2
+****** For Input Size 110000 *******
+Intro Sort
+2
+****** For Input Size 120000 *******
+Intro Sort
+2
+****** For Input Size 130000 *******
+Intro Sort
+2
+****** For Input Size 140000 *******
+Intro Sort
+2
+****** For Input Size 150000 *******
+Intro Sort
+3
+****** For Input Size 160000 *******
+Intro Sort
+3
+****** For Input Size 170000 *******
+Intro Sort
+3
+****** For Input Size 180000 *******
+Intro Sort
+4
+****** For Input Size 190000 *******
+Intro Sort
+4
+****** For Input Size 200000 *******
+Intro Sort
+4
+****** For Input Size 210000 *******
+Intro Sort
+4
+****** For Input Size 220000 *******
+Intro Sort
+4
+****** For Input Size 230000 *******
+Intro Sort
+4
+****** For Input Size 240000 *******
+Intro Sort
+5
+****** For Input Size 250000 *******
+Intro Sort
+5
+****** For Input Size 260000 *******
+Intro Sort
+5
+****** For Input Size 270000 *******
+Intro Sort
+5
+****** For Input Size 280000 *******
+Intro Sort
+6
+****** For Input Size 290000 *******
+Intro Sort
+6
+****** For Input Size 300000 *******
+Intro Sort
+6
+****** For Input Size 310000 *******
+Intro Sort
+9
+****** For Input Size 320000 *******
+Intro Sort
+8
+****** For Input Size 330000 *******
+Intro Sort
+11
+****** For Input Size 340000 *******
+Intro Sort
+18
+****** For Input Size 350000 *******
+Intro Sort
+10
+****** For Input Size 360000 *******
+Intro Sort
+8
+****** For Input Size 370000 *******
+Intro Sort
+8
+****** For Input Size 380000 *******
+Intro Sort
+11
+****** For Input Size 390000 *******
+Intro Sort
+8
+****** For Input Size 400000 *******
+Intro Sort
+9
+****** For Input Size 410000 *******
+Intro Sort
+13
+****** For Input Size 420000 *******
+Intro Sort
+9
+****** For Input Size 430000 *******
+Intro Sort
+10
+****** For Input Size 440000 *******
+Intro Sort
+10
+****** For Input Size 450000 *******
+Intro Sort
+10
+****** For Input Size 460000 *******
+Intro Sort
+11
+****** For Input Size 470000 *******
+Intro Sort
+15
+****** For Input Size 480000 *******
+Intro Sort
+11
+****** For Input Size 490000 *******
+Intro Sort
+11
+****** For Input Size 500000 *******
+Intro Sort
+12
+****** For Input Size 510000 *******
+Intro Sort
+12
+****** For Input Size 520000 *******
+Intro Sort
+12
+****** For Input Size 530000 *******
+Intro Sort
+12
+****** For Input Size 540000 *******
+Intro Sort
+14
+****** For Input Size 550000 *******
+Intro Sort
+13
+****** For Input Size 560000 *******
+Intro Sort
+13
+****** For Input Size 570000 *******
+Intro Sort
+30
+****** For Input Size 580000 *******
+Intro Sort
+19
+****** For Input Size 590000 *******
+Intro Sort
+14
+****** For Input Size 600000 *******
+Intro Sort
+15
+****** For Input Size 610000 *******
+Intro Sort
+22
+****** For Input Size 620000 *******
+Intro Sort
+15
+****** For Input Size 630000 *******
+Intro Sort
+17
+****** For Input Size 640000 *******
+Intro Sort
+15
+****** For Input Size 650000 *******
+Intro Sort
+20
+****** For Input Size 660000 *******
+Intro Sort
+19
+****** For Input Size 670000 *******
+Intro Sort
+17
+****** For Input Size 680000 *******
+Intro Sort
+25
+****** For Input Size 690000 *******
+Intro Sort
+17
+****** For Input Size 700000 *******
+Intro Sort
+17
+****** For Input Size 710000 *******
+Intro Sort
+17
+****** For Input Size 720000 *******
+Intro Sort
+18
+****** For Input Size 730000 *******
+Intro Sort
+18
+****** For Input Size 740000 *******
+Intro Sort
+18
+****** For Input Size 750000 *******
+Intro Sort
+18
+****** For Input Size 760000 *******
+Intro Sort
+27
+****** For Input Size 770000 *******
+Intro Sort
+19
+****** For Input Size 780000 *******
+Intro Sort
+21
+****** For Input Size 790000 *******
+Intro Sort
+24
+****** For Input Size 800000 *******
+Intro Sort
+21
+****** For Input Size 810000 *******
+Intro Sort
+28
+****** For Input Size 820000 *******
+Intro Sort
+24
+****** For Input Size 830000 *******
+Intro Sort
+22
+****** For Input Size 840000 *******
+Intro Sort
+31
+****** For Input Size 850000 *******
+Intro Sort
+20
+****** For Input Size 860000 *******
+Intro Sort
+19
+****** For Input Size 870000 *******
+Intro Sort
+22
+****** For Input Size 880000 *******
+Intro Sort
+19
+****** For Input Size 890000 *******
+Intro Sort
+27
+****** For Input Size 900000 *******
+Intro Sort
+19
+****** For Input Size 910000 *******
+Intro Sort
+26
+****** For Input Size 920000 *******
+Intro Sort
+24
+****** For Input Size 930000 *******
+Intro Sort
+27
+****** For Input Size 940000 *******
+Intro Sort
+20
+****** For Input Size 950000 *******
+Intro Sort
+22
+****** For Input Size 960000 *******
+Intro Sort
+22
+****** For Input Size 970000 *******
+Intro Sort
+22
+****** For Input Size 980000 *******
+Intro Sort
+21
+****** For Input Size 990000 *******
+Intro Sort
+30
+****** For Input Size 1000000 *******
+Intro Sort
+29
