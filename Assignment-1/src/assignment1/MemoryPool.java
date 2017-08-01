@@ -10,6 +10,7 @@ import java.util.Random;
  */
 public class MemoryPool {
 
+	/* Initialize Attributes involved in Memory Pool */
 	static LinkedList.Node start;
 	static LinkedList.Node newStartBlock;
 	static LinkedList.Node[] pool = new LinkedList.Node[11];
@@ -17,6 +18,7 @@ public class MemoryPool {
 	static int counter = 0;
 	static int fragments = 0;
 
+	/*Create Memory Pool */
 	public void createMemoryPool(int numOfNodes, int memPower) {
 
 		int memSize = 1;
@@ -48,7 +50,7 @@ public class MemoryPool {
 		pool[j] = start;
 
 	}
-
+	/*Get blocks of Bigger size */
 	public void getBlocksMovingUpwards(int tempIndex) {
 		//System.out.println("Asked block index " + tempIndex);
 		int origIndex = tempIndex;
@@ -94,6 +96,7 @@ public class MemoryPool {
 		return mergedBlockSize;
 	}
 
+	/*Function to allocate block of requested size*/
 	public void getBlock(int size) {
 
 		int blockSize = 2, index = 0;
@@ -155,7 +158,7 @@ public class MemoryPool {
 		}
 
 	}
-
+	/*Function to print the status of Memory Pool*/
 	public void printMemoryPool() {
 		LinkedList.Node p = start;
 		for (int i = 0; i < 11; i++) {
@@ -173,7 +176,7 @@ public class MemoryPool {
 			}
 		}
 	}
-
+	/* Main Function that triggers the program*/
 	public static void main(String args[]) {
 
 		LinkedList out = new LinkedList();

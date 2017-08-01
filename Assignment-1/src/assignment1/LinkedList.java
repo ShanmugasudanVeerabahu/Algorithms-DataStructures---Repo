@@ -1,7 +1,7 @@
 package assignment1;
 
 public class LinkedList {
-
+	/* Insert a node(memory block) in the linked list*/
     public Node insert(Node start, int x){
         if(start == null || start.data > x){
            start = new Node(x,start);
@@ -17,6 +17,7 @@ public class LinkedList {
         return start;
     }
     
+    /* Delete a node(memory block) in the linked list*/
     public Node delete(Node start, int x){
         if(start == null || start.data > x){
             return start;
@@ -36,6 +37,7 @@ public class LinkedList {
         }
         return start;
     }
+    /* Represent a node(memory block) in the linked list*/
     public class Node{
         int startAddress;
         int data;
