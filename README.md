@@ -2,8 +2,8 @@
 
 1. Assignment 1 is about creating a Memory Pool using Linked list and Arrays
 
-2. Assignment 2 is about creating a Memory Pool using Binary Trees
+2. Assignment 2 is about designing an Elastic load balancer to manage incoming web user requests
 
-3. Assignment 3 is about Sorting Algorithms and their analysis
+2. Assignment 3 is about creating a Memory Pool using Binary Trees
 
-4. Assignment 4 is about Hashing implementation using Arrays
+3. Assignment 4 is about Sorting Algorithms and their analysis
