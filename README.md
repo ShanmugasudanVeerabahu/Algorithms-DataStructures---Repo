@@ -10,4 +10,4 @@
 
 4. Final project is about designing an elastic load balancer that manages incoming user requests.
 
-Please refer to my github wiki for detailed explanation about the Assignments and Project work.
+Please refer to my github wiki(https://github.com/ShanmugasudanVeerabahu/Algorithms-and-DataStructures/wiki) for detailed explanation about the Assignments and Project work.
